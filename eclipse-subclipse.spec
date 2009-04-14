@@ -12,7 +12,7 @@ Source0:	http://subclipse.tigris.org/files/documents/906/45156/site-%{version}.z
 Source10:	%{name}.sh
 Requires:	eclipse >= 3.3.1.1
 #Requires:	eclipse-svnkit >= 1.2.2
-Requires:	subversion-javahl >= 1.5
+#Requires:	subversion-javahl >= 1.5
 Obsoletes:	eclipse-subclipse-book < 1.4
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
