@@ -12,7 +12,7 @@ Group:		Development/Tools
 URL:		http://subclipse.tigris.org/
 Source0:	subclipse-%{version}.tgz
 # Source0-md5:	1b291cd89a7c51b343cfcf863fc1793c
-Source10:	subclipse-fetch.sh
+Source10:	%{name}.sh
 Patch0:		%{name}-dependencies.patch
 BuildRequires:	ant
 BuildRequires:	coreutils
