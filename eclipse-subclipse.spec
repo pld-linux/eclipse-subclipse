@@ -3,7 +3,7 @@
 Summary:	Subversion Eclipse plugin
 Name:		eclipse-subclipse
 Version:	1.4.8
-Release:	0.1
+Release:	1
 License:	EPL and CC-BY
 Group:		Development/Tools
 URL:		http://subclipse.tigris.org/
