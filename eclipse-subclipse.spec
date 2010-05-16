@@ -10,6 +10,7 @@ URL:		http://subclipse.tigris.org/
 Source0:	http://subclipse.tigris.org/files/documents/906/45156/site-%{version}.zip
 # Source0-md5:	b98324f5669956c7e79422de8c2447b8
 Source10:	%{name}.sh
+BuildRequires:	unzip
 Requires:	eclipse >= 3.3.1.1
 #Requires:	eclipse-svnkit >= 1.2.2
 #Requires:	subversion-javahl >= 1.5
